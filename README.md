@@ -9,9 +9,8 @@
     - Android Studio, 
     - Laravel, 
     - Vuejs
-    
-    <a href="https://app.daily.dev/dev_bob"><img src="https://api.daily.dev/devcards/a36cac2101f04fa394f6b862c85ca83f.png?r=gf7" width="400" alt="Dev Bob's Dev Card"/></a>
 
+<a href="https://app.daily.dev/boboybld9"><img src="https://api.daily.dev/devcards/a36cac2101f04fa394f6b862c85ca83f.png?r=7ia" width="400" alt="Boboy bld's Dev Card"/></a>
 
 <!--
 **boboybld/boboybld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
